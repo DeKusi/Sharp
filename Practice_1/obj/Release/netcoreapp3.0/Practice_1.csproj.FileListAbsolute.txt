@@ -1,0 +1,11 @@
+C:\Users\Ксения\Documents\Программирование\Технологии программирования\Практика\Practice_1\bin\Release\netcoreapp3.0\Practice_1.exe
+C:\Users\Ксения\Documents\Программирование\Технологии программирования\Практика\Practice_1\bin\Release\netcoreapp3.0\Practice_1.deps.json
+C:\Users\Ксения\Documents\Программирование\Технологии программирования\Практика\Practice_1\bin\Release\netcoreapp3.0\Practice_1.runtimeconfig.json
+C:\Users\Ксения\Documents\Программирование\Технологии программирования\Практика\Practice_1\bin\Release\netcoreapp3.0\Practice_1.runtimeconfig.dev.json
+C:\Users\Ксения\Documents\Программирование\Технологии программирования\Практика\Practice_1\bin\Release\netcoreapp3.0\Practice_1.dll
+C:\Users\Ксения\Documents\Программирование\Технологии программирования\Практика\Practice_1\bin\Release\netcoreapp3.0\Practice_1.pdb
+C:\Users\Ксения\Documents\Программирование\Технологии программирования\Практика\Practice_1\obj\Release\netcoreapp3.0\Practice_1.csprojAssemblyReference.cache
+C:\Users\Ксения\Documents\Программирование\Технологии программирования\Практика\Practice_1\obj\Release\netcoreapp3.0\Practice_1.AssemblyInfoInputs.cache
+C:\Users\Ксения\Documents\Программирование\Технологии программирования\Практика\Practice_1\obj\Release\netcoreapp3.0\Practice_1.AssemblyInfo.cs
+C:\Users\Ксения\Documents\Программирование\Технологии программирования\Практика\Practice_1\obj\Release\netcoreapp3.0\Practice_1.dll
+C:\Users\Ксения\Documents\Программирование\Технологии программирования\Практика\Practice_1\obj\Release\netcoreapp3.0\Practice_1.pdb
