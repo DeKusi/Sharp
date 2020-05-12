@@ -1,0 +1,5 @@
+C:\Users\Ксения\Documents\Программирование\Технологии программирования\Домашнее задание\Educational_center\bin\Debug\Educational_center.dll
+C:\Users\Ксения\Documents\Программирование\Технологии программирования\Домашнее задание\Educational_center\bin\Debug\Educational_center.pdb
+C:\Users\Ксения\Documents\Программирование\Технологии программирования\Домашнее задание\Educational_center\obj\Debug\Educational_center.csprojAssemblyReference.cache
+C:\Users\Ксения\Documents\Программирование\Технологии программирования\Домашнее задание\Educational_center\obj\Debug\Educational_center.dll
+C:\Users\Ксения\Documents\Программирование\Технологии программирования\Домашнее задание\Educational_center\obj\Debug\Educational_center.pdb
